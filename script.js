@@ -26,7 +26,7 @@ console.log(++incr);
 console.log(decr--);
 
 
-console.log(5%2);le
+console.log(5%2);
 let isChacked = true;
 let isClose= true;
 
